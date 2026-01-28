@@ -1,0 +1,25 @@
+.partie{
+text-align: center;
+font-size: 20px;
+border:solid 2px;
+}
+
+h1{ 
+text-align: center;
+color: white;
+}
+
+.photo{
+color: white;
+background-color: black;
+height: 400px;
+width: 400px;
+margin-left: 550px;
+border-radius: 300px;
+text-align: center;
+}
+
+.pages{
+color: white;
+margin-right: 15px;
+}

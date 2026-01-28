@@ -1,0 +1,36 @@
+.partie{
+text-align: center;
+font-size: 20px;
+border:solid 2px;
+}
+
+h1{ 
+text-align: center;
+color: white;
+}
+
+.pages{
+color: rgb(255, 254, 254);
+margin-right: 15px;
+}
+
+.escale{
+color: white;
+background-color: rgb(95, 99, 101);
+height: 200px;
+width: 500px;
+border-radius: 20px;
+margin: 70px;
+text-align: center;
+}
+
+.stage{
+display: flex;
+}
+
+img{
+margin-left: 100px;
+border-radius: 20px;
+height: 300px;
+width: 550px;
+}
